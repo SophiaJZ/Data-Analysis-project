@@ -1,1 +1,1 @@
-# This data analysis explores the predictions as well as relationship between movie production budgets and their financial performance.
+This data analysis project involves data cleaning, manipulation, extraction, statistical analysis, and visualization.
